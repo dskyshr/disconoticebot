@@ -40,6 +40,11 @@ vim mylib/config.py
 py disconoticebot.py
 ```
 
+If you don't know these channel ids, try
+```bash
+py discochannles.py
+```
+
 
 # Note
  
