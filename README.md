@@ -23,6 +23,11 @@ For example,
 pip install discord.py
 ```
 
+First of all, you have to create a dedicated bot on Discord Debeloper Portal.
+2nd, turn all "Privileged Gateway Intents" on.
+3nd, grant the bot authorities of 'View Audit Log', 'Read messages/View Channels', 'View Server Insight', 'Send massages'.
+Last, access the URL for inviting your server.
+
 
 # Usage
  
